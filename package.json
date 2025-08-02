@@ -1,0 +1,26 @@
+{
+    "name": "beauty-with-mare-square-booking",
+    "version": "1.0.0",
+    "description": "Square booking system for BeautyWithMare website",
+    "main": "index.html",
+    "scripts": {
+        "start": "node square-backend.js",
+        "build": "echo 'No build step needed - static site with Netlify Functions'"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "pm2": "^6.0.8",
+        "square": "^30.0.0"
+    },
+    "keywords": [
+        "square",
+        "booking",
+        "payment",
+        "beauty",
+        "appointment",
+        "netlify"
+    ],
+    "author": "BeautyWithMare",
+    "license": "MIT"
+}

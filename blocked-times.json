@@ -1,0 +1,782 @@
+[
+  {
+    "date": "2025-09-19",
+    "time": "9:00 AM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "10:00 AM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "11:00 AM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "12:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "1:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "2:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "3:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "4:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "5:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "6:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "7:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "8:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-19",
+    "time": "9:00 PM",
+    "blockedAt": "2025-07-31T00:06:51.485Z",
+    "reason": "personal-event",
+    "eventId": "event-1753920411484",
+    "eventTitle": "Amiyas Birthday"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "9:00 AM",
+    "blockedAt": "2025-07-31T00:07:26.707Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "10:00 AM",
+    "blockedAt": "2025-07-31T00:07:26.711Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "11:00 AM",
+    "blockedAt": "2025-07-31T00:07:26.714Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "12:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.717Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "1:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.720Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "2:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.723Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "3:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.726Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "4:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.729Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "5:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.733Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "6:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.738Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "7:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.742Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "8:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.745Z"
+  },
+  {
+    "date": "2025-09-20",
+    "time": "9:00 PM",
+    "blockedAt": "2025-07-31T00:07:26.748Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "9:00 AM",
+    "blockedAt": "2025-07-31T00:07:34.116Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "10:00 AM",
+    "blockedAt": "2025-07-31T00:07:34.120Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "11:00 AM",
+    "blockedAt": "2025-07-31T00:07:34.124Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "12:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.127Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "1:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.130Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "2:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.138Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "3:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.141Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "4:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.144Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "5:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.147Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "6:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.149Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "7:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.153Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "8:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.156Z"
+  },
+  {
+    "date": "2025-09-21",
+    "time": "9:00 PM",
+    "blockedAt": "2025-07-31T00:07:34.160Z"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "9:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "10:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "11:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "12:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "1:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "2:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "3:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "4:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "5:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "6:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "7:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "8:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-15",
+    "time": "9:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "9:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "10:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "11:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "12:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "1:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "2:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "3:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "4:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "5:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "6:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "7:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "8:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-16",
+    "time": "9:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "9:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "10:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "11:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "12:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "1:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "2:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "3:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "4:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "5:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "6:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "7:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "8:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-17",
+    "time": "9:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "9:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "10:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "11:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "12:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "1:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "2:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "3:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "4:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "5:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "6:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "7:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "8:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-18",
+    "time": "9:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "9:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "10:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "11:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "12:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "1:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "2:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "3:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "4:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "5:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "6:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "7:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "8:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-19",
+    "time": "9:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "9:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "10:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "11:00 AM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "12:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "1:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "2:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "3:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "4:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "5:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "6:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "7:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "8:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  },
+  {
+    "date": "2025-08-20",
+    "time": "9:00 PM",
+    "blockedAt": "2025-07-31T01:23:19.450Z",
+    "reason": "vacation",
+    "vacationRange": "2025-08-14 to 2025-08-20"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "manual-booking-1754111208211",
+    "paymentId": "manual-unpaid-1754111208211",
+    "customerId": "manual-1754111208211",
+    "customerName": "Cody Raymond Raczniak",
+    "customerPhone": "4438761983",
+    "customerEmail": "codyraczniak923@gmail.com",
+    "services": [
+      {
+        "name": "lashes",
+        "price": 132,
+        "duration": 60
+      }
+    ],
+    "totalDurationMinutes": 60,
+    "date": "2025-08-14",
+    "time": "9:00 AM",
+    "totalAmount": 132,
+    "depositPaid": 0,
+    "remainingBalance": 132,
+    "notes": "",
+    "status": "CONFIRMED",
+    "paymentMethod": "manual",
+    "paymentStatus": "unpaid",
+    "bookedBy": "admin-manual",
+    "createdAt": "2025-08-02T05:06:48.211Z",
+    "isMainBooking": true,
+    "isManualBooking": true,
+    "bookingSource": "manual",
+    "serviceDuration": 60,
+    "blockedSlots": [
+      "9:00 AM"
+    ],
+    "refundStatus": "none"
+  }
+]
